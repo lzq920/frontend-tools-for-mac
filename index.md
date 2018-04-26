@@ -52,5 +52,5 @@ lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足
 
 马克飞象是一款免费的markdown编辑器。
 
-[markdown](https://maxiang.io)
+[马克飞象](https://maxiang.io)
 
