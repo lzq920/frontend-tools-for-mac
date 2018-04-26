@@ -32,4 +32,19 @@ NVM是nodejs版本管理工具，能够方便的切换nodejs的版本。
 
 VSCODE是微软出品的编辑器，小巧好用。
 
-[VSCODE](https://code.visualstudio.com/)
+[VSCODE](https://code.visualstudio.com)
+
+# Sourcetree
+
+Windows 和 Mac上最好用的Git可视化客户端工具。
+
+[Sourcetree](https://www.sourcetreeapp.com)
+
+# VPN
+
+lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足大部分人的需求。
+
+[lantern](https://github.com/getlantern/lantern)
+
+[freeVPN](https://www.freevpn.pw/zh-cn)
+
