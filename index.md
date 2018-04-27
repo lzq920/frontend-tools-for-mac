@@ -59,6 +59,13 @@ lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足
 NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao。
 
 [nrm](https://github.com/Pana/nrm)
+
 ```js
 npm install -g nrm
 ```
+
+# PxCook
+
+高效易用的自动标注工具, 生成前端代码, 设计研发协作利器。
+
+[PxCook](http://fancynode.com.cn/pxcook)
