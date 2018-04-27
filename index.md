@@ -54,3 +54,11 @@ lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足
 
 [马克飞象](https://maxiang.io)
 
+# NRM
+
+NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao。
+
+[nrm](https://github.com/Pana/nrm)
+```js
+npm install -g nrm
+```
