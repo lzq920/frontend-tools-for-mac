@@ -69,3 +69,9 @@ npm install -g nrm
 高效易用的自动标注工具, 生成前端代码, 设计研发协作利器。
 
 [PxCook](http://fancynode.com.cn/pxcook)
+
+# 飞冰
+
+海量可复用物料，通过 GUI 工具极速构建中后台应用。
+
+[飞冰](https://alibaba.github.io/ice)
