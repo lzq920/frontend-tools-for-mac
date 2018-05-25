@@ -75,3 +75,9 @@ npm install -g nrm
 海量可复用物料，通过 GUI 工具极速构建中后台应用。
 
 [飞冰](https://alibaba.github.io/ice)
+
+# IDEA
+
+强大的IDE
+
+激活地址:http://btsha.com:41017
