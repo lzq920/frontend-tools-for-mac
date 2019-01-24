@@ -78,7 +78,14 @@ npm install -g nrm
 # IDEA
 
 强大的IDE
+
 [IDEA](https://www.jetbrains.com/idea/)
 
 激活地址:http://btsha.com:41017
+
+# Postman
+
+最好的API测试工具
+
+[Postman App](https://www.getpostman.com/downloads/)
 
