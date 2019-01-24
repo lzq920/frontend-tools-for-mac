@@ -42,11 +42,10 @@ Windows 和 Mac上最好用的Git可视化客户端工具。
 
 # VPN
 
-lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足大部分人的需求。
+lantern是一款跨平台的科学上网工具，每月500M流量，足够满足大部分人的需求。
 
 [lantern](https://github.com/getlantern/lantern)
 
-[freeVPN](https://www.freevpn.pw/zh-cn)
 
 # MarkDown
 
@@ -56,7 +55,7 @@ lantern是一款跨平台的免费翻墙工具，每月500M流量，足够满足
 
 # NRM
 
-NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao。
+NPM下载源管理工具,可以方便快捷的切换各种源,包括npm,taobao等等
 
 [nrm](https://github.com/Pana/nrm)
 
@@ -79,5 +78,7 @@ npm install -g nrm
 # IDEA
 
 强大的IDE
+[IDEA](https://www.jetbrains.com/idea/)
 
 激活地址:http://btsha.com:41017
+
